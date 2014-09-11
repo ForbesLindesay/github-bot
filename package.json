@@ -1,0 +1,28 @@
+{
+  "name": "github-bot",
+  "version": "0.0.0",
+  "description": "Everything you need to build a bot for submitting automated pull requests",
+  "keywords": [],
+  "dependencies": {
+    "barrage": "^1.1.0",
+    "gethub": "^2.0.1",
+    "github-basic": "^4.1.1",
+    "lsr": "^1.0.0",
+    "mkdirp": "^0.5.0",
+    "promise": "^6.0.0",
+    "rimraf": "^2.2.8",
+    "uid": "0.0.2"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ForbesLindesay/github-bot.git"
+  },
+  "author": "ForbesLindesay",
+  "license": "MIT"
+}
