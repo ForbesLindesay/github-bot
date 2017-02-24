@@ -6,10 +6,10 @@
   "dependencies": {
     "barrage": "^1.1.0",
     "gethub": "^2.0.1",
-    "github-basic": "^4.1.1",
+    "github-basic": "^6.0.0",
     "lsr": "^1.0.0",
     "mkdirp": "^0.5.0",
-    "promise": "^6.0.0",
+    "promise": "^7.1.1",
     "rimraf": "^2.2.8",
     "uid": "0.0.2"
   },
