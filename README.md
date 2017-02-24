@@ -1,5 +1,7 @@
 # github-bot
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/github-bot.svg)](https://greenkeeper.io/)
+
 Everything you need to build a bot for submitting automated pull requests
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/github-bot/master.svg)](https://travis-ci.org/ForbesLindesay/github-bot)
